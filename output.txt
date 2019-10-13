@@ -1,0 +1,16 @@
+2	abc	
+3	28	
+3	29	
+3	30	
+10	aaa	
+11	aaa	
+Abc	14	8	8	8	8	8	9	
+Abc	14	8	8	8	8	8	10	
+Abc	28	
+Abc	bbb	
+Abc	bbb	bbb	
+Abc	bbb	bbc	
+Abc	bbc	
+Bbc	14	8	8	8	4	
+Bbc	29	bbc	
+Ca	29	
